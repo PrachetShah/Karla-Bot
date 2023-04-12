@@ -1,0 +1,9 @@
+name(regards,body + db)->
+
+subject: keywords (cosine similarity)->
+
+body: keywords and more than 1 attachment
+then OCR
+
+ONLY ATTACHMENTS:
+then goto OCR
